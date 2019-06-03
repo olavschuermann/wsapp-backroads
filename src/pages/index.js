@@ -6,7 +6,7 @@ import Layout from '../components/Layout';
 const App = () => {
     return (    
         <Layout>
-                Hello world (Website-App React/Gatsby 0.0.5 - 27.05.19)<br />
+                Hello world<br /> (Website-App React/Gatsby 0.0.7 - 03.06.19)<br />
                 <Link to='/blog'>Blog</Link>
         </Layout>
     )}
