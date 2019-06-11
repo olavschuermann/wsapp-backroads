@@ -33,7 +33,7 @@ const Footer = () => {
       <div className={styles.copyright}>
         copyright &copy; backroads travel company {new Date().getFullYear()} all
         rights reserved<br />
-        Version 0.0.9 - "Buzz Lightspeed" - 07.06.19
+        Version 0.0.10 - "Buzz Lightspeed" - 11.06.19
       </div>
     </footer>
   )
